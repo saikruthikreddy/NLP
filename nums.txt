@@ -1,0 +1,3 @@
+The bill amount is 250 and tax is 18.
+Total people = 4.
+Two discounts: 50 and 25.
